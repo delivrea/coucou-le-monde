@@ -1,7 +1,7 @@
 # coucou-le-monde
 Pour faire coucou
 
-pseudo = input("Saisissez votre pseudo")
+pseudo = input("J'en sais rien")
 blablalbla
 truc
 machin
